@@ -1,0 +1,170 @@
+.nav {
+    background-color: white;
+    max-height: 100%;
+}
+
+.navbar-brand img {
+    max-height: 100%;
+    max-width: 20%;
+}
+
+.nav-item {
+    font-family: "poppins";
+    height: 100%;
+    width: 100%;
+    padding-right: 40px;
+    font-size: 30px;
+    background: white;
+}
+
+.mylogo {
+    margin-left: 70px;
+}
+
+.herospace {
+    padding-bottom: 100px;
+}
+
+h1 {
+    font-family: "Montagu Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: 700 !important;
+    font-style: bold;
+    color: #173A2B !important;
+    font-size: 60px !important;
+}
+
+.head {
+    position: absolute;
+    transform: translateX(150px);
+    padding-bottom: 100px;
+}
+
+.p1 {
+    padding-top: 100px;
+    padding-bottom: 20px;
+}
+
+h2 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400 !important;
+    font-style: normal;
+    text-align: center;
+}
+
+h3 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400 !important;
+    font-style: normal;
+}
+
+h4 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400 !important;
+    font-style: normal;
+    color: #4D4D4D !important; 
+}
+
+.profileimg {
+    width: 100%;
+    border-radius: 2%;
+}
+
+
+.biocontent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+li {
+    list-style-type: none;
+}
+
+.outlined-button {
+    display: flex;
+    justify-content: center;
+    padding: 10px 20px;
+    border: 2px solid #173A2B;
+    background-color: transparent;
+    color: #173A2B;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 24px;
+    font-weight: bold;
+    border-radius: 40px;
+    width: 150px;
+  }
+  
+  .outlined-button:hover {
+    background-color: #4D4d4d;
+    color: #fff;
+  }
+
+  .sectiontwo {
+    background-color: #f5f6f5;
+    height: 600px;
+}
+
+.process-icon {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.titles {
+    padding: 50px;
+    font-family: "Montagu Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: 700 !important;
+    font-style: bold;
+    color: #173A2B !important;
+    font-size: 36px !important;
+}
+
+
+.processlist {
+    display: flex;
+    justify-content: center;
+    color: #173A2B;
+}
+
+.processlist ul {
+    display: flex;
+    flex-direction: row;
+    padding-top: 40px;
+}
+
+.processlist li {
+    display: flex;
+    margin-left: 30px;
+    margin-right: 60px;
+    font-family: "poppins";
+    font-size: 24px;
+    align-items: center;
+    height: 60px;
+    width: 150px;
+    justify-content: center;
+}
+
+.skillset {
+    display: flex; 
+    justify-content: center;
+    padding-bottom: 50PX;
+    word-spacing: 20px;
+}
+
+footer {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600 !important;
+    font-style: normal;
+    color: #4d4d4d !important; 
+    margin: 90px;
+}
+
+.sectionfour {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
