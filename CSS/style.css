@@ -3,6 +3,10 @@
     max-height: 100%;
 }
 
+.navbar {
+    --bs-navbar-padding-y: 0 !important;
+}
+
 .navbar-brand img {
     max-height: 100%;
     max-width: 20%;
